@@ -1,5 +1,5 @@
 # ReactNativeNavigationV3
-Terminal
+Terminal ---------------------------------------------------------------------
 
 git clone https://github.com/infinetys/ReactNativeNavigationV3.git
 
