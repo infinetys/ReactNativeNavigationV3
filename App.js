@@ -3,7 +3,6 @@ import { createStackNavigator, createAppContainer } from 'react-navigation';
 import HomeScreen from './src/screen/HomeScreen';
 import DetailsScreen from './src/screen/DetailsScreen';
 
-
 const RootStack = createStackNavigator(
   {
     Home: HomeScreen,
