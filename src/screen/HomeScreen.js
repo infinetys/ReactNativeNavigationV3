@@ -9,9 +9,9 @@ export default class HomeScreen extends React.Component {
     const {navigate} = this.props.navigation;
     return (
         <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-        <Text>Home Screen</Text>
+        <Text>หน้า Home</Text>
         <Button
-        title="Go to Details"
+        title="ไปหน้า Details"
         onPress={() => navigate('Details')}
       />
       </View>
